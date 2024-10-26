@@ -73,7 +73,7 @@ section {
 article {
     flex:1 1 20px; 
     max-width: 600px;
-    min-width: 350px; 
+    min-width: 300px; 
     text-align: center;
     box-sizing: border-box;
     width: 100%;
