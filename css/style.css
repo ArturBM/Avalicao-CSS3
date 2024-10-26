@@ -119,6 +119,7 @@ article p {
         margin-right: 30px;
         margin-top: 10px;
         margin-left: 0;
+        
     }
 
     nav li {
@@ -129,6 +130,7 @@ article p {
         margin-top: 10px;
         border-radius: 0px;
         margin-left: 0;
+        padding: 0;
     }
 
     nav li a {
